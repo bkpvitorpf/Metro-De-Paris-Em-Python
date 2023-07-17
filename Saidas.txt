@@ -1,0 +1,1857 @@
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 2 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 20 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 3 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 37 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 4 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 49 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 5 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 6 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 21 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 7 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 24 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 8 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 3 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 9 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 44 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 10 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 31 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 11 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 12 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 12 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 20 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 13 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 19 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 1 até a estação 14 está descrito abaixo:
+
+Partindo da estação 1, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 29 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 1 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 20 minutos e 0 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 3 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 16 minutos e 59 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 4 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 29 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 5 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 6 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 7 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 8 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha amarela para ir até a estação 9.
+Na estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 39 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 9 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 20 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 10 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 6 minutos e 59 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 11 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha amarela para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 48 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 12 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha amarela para ir até a estação 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 56 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 13 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 59 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 2 até a estação 14 está descrito abaixo:
+
+Partindo da estação 2, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 1 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 37 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 2 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 16 minutos e 59 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 4 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 12 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 5 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 38 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 6 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 44 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 7 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 47 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 8 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 42 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 9 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 18 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 10 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 28 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 11 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 43 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 12 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 58 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 13 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 42 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 3 até a estação 14 está descrito abaixo:
+
+Partindo da estação 3, pegue a linha azul para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 52 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 1 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 49 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 2 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 29 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 3 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 12 minutos e 36 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 5 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 26 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 6 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 32 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 7 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 34 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 8 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 30 minutos e 35 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 9 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 35 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 10 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 40 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 11 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha azul para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 59 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 12 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 43 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 13 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 25 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 4 até a estação 14 está descrito abaixo:
+
+Partindo da estação 4, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 35 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 1 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 2 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 3 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 38 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 4 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 26 minutos e 0 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 6 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 6 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 7 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 4 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 8 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha amarela para ir até a estação 7.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 0 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 9 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 10 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 11 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 25 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 12 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 6.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 13 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 13 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 5 até a estação 14 está descrito abaixo:
+
+Partindo da estação 5, pegue a linha azul para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 5 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 1 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 21 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 2 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 3 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 44 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 4 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 32 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 5 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 6 minutos e 0 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 7 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 14 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 8 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha amarela para ir até a estacao 7.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 9 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 7 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 10 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 12 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 11 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 31 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 12 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 19 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 13 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 6 até a estação 14 está descrito abaixo:
+
+Partindo da estação 6, pegue a linha azul para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 11 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 1 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 24 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 2 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 3 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 47 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 4 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 34 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 5 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 4 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 6 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 14 minutos e 48 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 8 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 9 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 10 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 10 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 11 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 34 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 12 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, pegue a linha azul para ir até a estacao 6.
+Na estação 5, pegue a linha amarela para ir até a estacao 7.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 22 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 13 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 7 até a estação 14 está descrito abaixo:
+
+Partindo da estação 7, pegue a linha amarela para ir até a estação 5.
+Na estação 5, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 14 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 1 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha amarela para ir até a estação 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 3 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 2 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha amarela para ir até a estação 9.
+Na estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 39 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 3 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha amarela para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 42 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 4 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 30 minutos e 35 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 5 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 0 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 6 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 7 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 24 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 9 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 19 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 10 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha amarela para ir até a estação 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 2.
+Na estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 46 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 11 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 12.
+Na estação 8, pegue a linha amarela para ir até a estacao 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 47 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 12 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 12 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 13 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 4.
+Na estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 56 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 8 até a estação 14 está descrito abaixo:
+
+Partindo da estação 8, pegue a linha verde para ir até a estação 4.
+Na estação 4, pegue a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 1 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 44 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 2 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 20 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 3 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 18 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 4 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 35 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 5 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 6 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 7 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 7 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 10 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 8 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 19 minutos e 12 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 10 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha amarela para ir até a estação 2.
+Na estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 27 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 11 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 24 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 12 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha amarela para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 36 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 13 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 5 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 9 até a estação 14 está descrito abaixo:
+
+Partindo da estação 9, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 1 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 31 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 2 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 6 minutos e 59 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 3 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 28 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 4 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 40 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 5 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 6 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 12 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 7 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 8 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, pegue a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 46 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 9 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 27 minutos e 0 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 11 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, pegue a linha amarela para ir até a estacao 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 12 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, pegue a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 3 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 13 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 10 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 10 até a estação 14 está descrito abaixo:
+
+Partindo da estação 10, pegue a linha amarela para ir até a estação 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, pegue a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 20 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 1 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 12 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 2 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 48 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 3 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 43 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 4 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 59 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 5 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 25 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 6 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 31 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 7 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, pegue a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 34 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 8 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 47 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 9 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 24 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 10 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 2.
+Na estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 24 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 12 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 8.
+Na estação 8, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 13 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 29 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 11 até a estação 14 está descrito abaixo:
+
+Partindo da estação 11, pegue a linha vermelha para ir até a estação 9.
+Na estação 9, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 39 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 1 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 20 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 2 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 56 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 3 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 58 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 4 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 43 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 5 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 13 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 6 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 19 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 7 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 22 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 8 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 12 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 9 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 36 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 10 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, pegue a linha amarela para ir até a estacao 2.
+Na estação 2, pegue a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 3 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 11 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, aguarde 4 minutos e troque para a linha amarela para ir até a estacao 9.
+Na estação 9, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 13 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até a estacao 4.
+Na estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 12 até a estação 14 está descrito abaixo:
+
+Partindo da estação 12, pegue a linha verde para ir até a estação 8.
+Na estação 8, pegue a linha verde para ir até a estacao 4.
+Na estação 4, pegue a linha verde para ir até a estacao 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 19 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 1 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 14.
+Na estação 13, pegue a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 18 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 2 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 58 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 3 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 37 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 4 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 25 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 5 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 55 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 6 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 1 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 7 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 4 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 8 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 56 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 9 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 5 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 10 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha vermelha para ir até a estação 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 11 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 29 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 12 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até a estação 4.
+Na estação 4, pegue a linha verde para ir até a estacao 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 9 minutos e 0 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 13 até a estação 14 está descrito abaixo:
+
+Partindo da estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 10 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 1 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 2.
+Na estação 2, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 32 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 2 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 12 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 3 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 51 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 4 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 35 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 5 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 5 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 6 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, pegue a linha azul para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 11 minutos e 48 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 7 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 5.
+Na estação 5, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 14 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 8 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 6 minutos e 24 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 9 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 15 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 10 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha azul para ir até a estacao 2.
+Na estação 2, aguarde 4 minutos e troque para a linha amarela para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 23 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 11 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, aguarde 4 minutos e troque para a linha azul para ir até a estacao 3.
+Na estação 3, aguarde 4 minutos e troque para a linha vermelha para ir até a estacao 9.
+Na estação 9, pegue a linha vermelha para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 39 minutos e 36 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 12 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até a estação 13.
+Na estação 13, pegue a linha verde para ir até a estacao 4.
+Na estação 4, pegue a linha verde para ir até a estacao 8.
+Na estação 8, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 1 horas 19 minutos e 12 segundos
+
+================================
+
+O caminho mais rápido para ir da estação 14 até a estação 13 está descrito abaixo:
+
+Partindo da estação 14, pegue a linha verde para ir até o seu destino.
+
+O tempo estimado de percurso é de: 0 horas 10 minutos e 12 segundos
+
+================================
+
+Você já está na estação desejada
+O tempo estimado de percurso é de: 0 horas 0 minutos e 0 segundos
+
+================================
+
